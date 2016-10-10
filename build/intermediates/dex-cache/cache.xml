@@ -2,319 +2,319 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_27b4209faec65b39888aeb596b1c1fe620bac19c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_662780ff58df5441922ccd27f7957ac8a7dad468.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_db6104c61a10eb1019a03824500b44a80c77f325.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_136c41636fb9a6dc6ae5f4bd896a7d7ec6b1a01a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.1_4511935e985b3139b4e12e15be01b6d082fc1b44.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_8d77d06c28cd60a6c11104affae23ca20692817d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/eu.the4thfloor.volley/com.android.volley/2015.05.28/b0b08cc0ac897e596abe6b263a9507cba875b705/com.android.volley-2015.05.28.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.volley-2015.05.28_679b8d9d1660378cb6b11d3a6fe425c98300294c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/gson-2.7_4a9ab15c92577da9a73fa10142117b795593146b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_710edc46ffc53db7beafcd80b6b8ece6e75c6283.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_08eb5356199da00e51177b0e6d4b03efdf9b05cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_e3abe17b350b0cfac1e5ae4bdf6989ce38eebe8b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_3008f784a1ef5482531fffe486825967c99562d3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_135e3b9b27acb33da49c96180e249750caebe87c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_51385bd179f52e04486bcabfc76d65af07ab1afc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_618ed22a415a6bf3a4171ef8da9cf7356ddbdd00.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_e598158145328eaaf19e4f1e15a9e3b371fa2a6e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/glide-3.7.0_f231964c2701473cce363f629c4a38d8495d4408.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ef5ff00d6117f60fed04a3490b14670819555a99.jar" />
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ef5ff00d6117f60fed04a3490b14670819555a99/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_428c2ba49296713f279d8582919c3f6c6106b5d7.jar" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_4a9ab15c92577da9a73fa10142117b795593146b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cad9a9407ab34dee0522334e8e69ea0878a728d5.jar" />
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_db6104c61a10eb1019a03824500b44a80c77f325/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/utils-debug/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="4b0a635e3ae84ac66ffaf73aac18b9ce66046907">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-utils-debug_fcbb0457a28e15dde499dada6d26f9394ebaa5f0.jar" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_710edc46ffc53db7beafcd80b6b8ece6e75c6283/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.1_a517cb8d2dc449d98ed9d2b20f6d10d8965af874.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_0e7a81b1d1e31e29f123840f6565980831424863.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_8d3909404dc7de7de902d466ef7a83ba81beac62.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_c7bf6b124daa3f9c5ada7ed9840b18536c57cbec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f0ba2b0bde1e837d80905f4d4cc9853789dd989f">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e81ba08f6765693a8c091a9bf7f20b23a1deab89.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ef9adcaec8bac8a0864e15044b739ce5c68a5d3a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1fdbdd4d9d7990b494b3a0106d88b0ac7b5d7b9e">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/instant-run_f4a4e4641307dbaf7442ee75716c6b2973fb68d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_b0b8f34b4c2eef4f40b4bdad5787716a11e70a87.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_450bd87b3687ca16256d06ec19e25983916f8519.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_e178ab1ce2a0d308d732c3cf1425e02e7eb04eb6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_c6be31a3d882cc2ebe6d6e16a6cf4a509c73001a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_8059efabeb661b35b4007dc85341b83594101f8d.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_aa41272706e4c7babae6a2b870e33f00d2dc1bb0.jar" />
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_aa41272706e4c7babae6a2b870e33f00d2dc1bb0/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_27b4209faec65b39888aeb596b1c1fe620bac19c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_662780ff58df5441922ccd27f7957ac8a7dad468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_8d77d06c28cd60a6c11104affae23ca20692817d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/eu.the4thfloor.volley/com.android.volley/2015.05.28/b0b08cc0ac897e596abe6b263a9507cba875b705/com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-2015.05.28_679b8d9d1660378cb6b11d3a6fe425c98300294c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_4511935e985b3139b4e12e15be01b6d082fc1b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_08eb5356199da00e51177b0e6d4b03efdf9b05cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e3abe17b350b0cfac1e5ae4bdf6989ce38eebe8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cad9a9407ab34dee0522334e8e69ea0878a728d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_51385bd179f52e04486bcabfc76d65af07ab1afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_e598158145328eaaf19e4f1e15a9e3b371fa2a6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_618ed22a415a6bf3a4171ef8da9cf7356ddbdd00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_428c2ba49296713f279d8582919c3f6c6106b5d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_f231964c2701473cce363f629c4a38d8495d4408/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0e7a81b1d1e31e29f123840f6565980831424863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="847891da30d5eda6d622e5f59694a256e3371757">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e81ba08f6765693a8c091a9bf7f20b23a1deab89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ef9adcaec8bac8a0864e15044b739ce5c68a5d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/utils-debug/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b0a635e3ae84ac66ffaf73aac18b9ce66046907">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-utils-debug_fcbb0457a28e15dde499dada6d26f9394ebaa5f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_a517cb8d2dc449d98ed9d2b20f6d10d8965af874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8d3909404dc7de7de902d466ef7a83ba81beac62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_c7bf6b124daa3f9c5ada7ed9840b18536c57cbec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3008f784a1ef5482531fffe486825967c99562d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_135e3b9b27acb33da49c96180e249750caebe87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74cc8e4c526028126799f7ba36b58889287665f3">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f4a4e4641307dbaf7442ee75716c6b2973fb68d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_450bd87b3687ca16256d06ec19e25983916f8519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_136c41636fb9a6dc6ae5f4bd896a7d7ec6b1a01a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_e178ab1ce2a0d308d732c3cf1425e02e7eb04eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_b0b8f34b4c2eef4f40b4bdad5787716a11e70a87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_460170b1e503afa3506562656c20c1081c0a0d22.jar" />
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_460170b1e503afa3506562656c20c1081c0a0d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_8059efabeb661b35b4007dc85341b83594101f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/apple/Desktop/SourceCode/Practice/AS/Product-Sharing-Notification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_c6be31a3d882cc2ebe6d6e16a6cf4a509c73001a/classes.dex" />
     </item>
 
 </items>
